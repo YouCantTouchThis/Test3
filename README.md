@@ -1,2 +1,2 @@
 # Test3
-My 3rd attemp at learning git
+My 3rd attempt at learning git
